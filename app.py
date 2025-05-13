@@ -12,7 +12,7 @@ from io import BytesIO
 import base64
 
 #import data
-data = pd.read_csv('dataset\creditcard.csv')
+data = pd.read_csv('dataset/creditcard.csv')
 
 
 #seperate legitimate and fraud data
